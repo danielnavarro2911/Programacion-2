@@ -1,0 +1,7 @@
+C:\Users\danie\Documents\C#\Tarea 2 problema 2\Tarea 2 problema 2\bin\Debug\Tarea 2 problema 2.exe.config
+C:\Users\danie\Documents\C#\Tarea 2 problema 2\Tarea 2 problema 2\bin\Debug\Tarea 2 problema 2.exe
+C:\Users\danie\Documents\C#\Tarea 2 problema 2\Tarea 2 problema 2\bin\Debug\Tarea 2 problema 2.pdb
+C:\Users\danie\Documents\C#\Tarea 2 problema 2\Tarea 2 problema 2\obj\Debug\Tarea 2 problema 2.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\C#\Tarea 2 problema 2\Tarea 2 problema 2\obj\Debug\Tarea 2 problema 2.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\C#\Tarea 2 problema 2\Tarea 2 problema 2\obj\Debug\Tarea 2 problema 2.exe
+C:\Users\danie\Documents\C#\Tarea 2 problema 2\Tarea 2 problema 2\obj\Debug\Tarea 2 problema 2.pdb
