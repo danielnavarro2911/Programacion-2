@@ -1,0 +1,7 @@
+C:\Users\danie\Documents\C#\ejemplo_clase\ejemplo_clase\bin\Debug\ejemplo_clase.exe.config
+C:\Users\danie\Documents\C#\ejemplo_clase\ejemplo_clase\bin\Debug\ejemplo_clase.exe
+C:\Users\danie\Documents\C#\ejemplo_clase\ejemplo_clase\bin\Debug\ejemplo_clase.pdb
+C:\Users\danie\Documents\C#\ejemplo_clase\ejemplo_clase\obj\Debug\ejemplo_clase.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\C#\ejemplo_clase\ejemplo_clase\obj\Debug\ejemplo_clase.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\C#\ejemplo_clase\ejemplo_clase\obj\Debug\ejemplo_clase.exe
+C:\Users\danie\Documents\C#\ejemplo_clase\ejemplo_clase\obj\Debug\ejemplo_clase.pdb
