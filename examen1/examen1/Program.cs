@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,11 +10,11 @@ namespace examen1
     {
         static void Main(string[] args)
         {
-            GestionVehiculos hola=new GestionVehiculos();
-            //hola.agregar_vehiculo();
-            hola.menu();
+            GestionVehiculos carros=new GestionVehiculos();
+            carros.menu();
         }
     }
+
 
     internal class GestionVehiculos
     {
