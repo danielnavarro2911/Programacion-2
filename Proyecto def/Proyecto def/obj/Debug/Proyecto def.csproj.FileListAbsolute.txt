@@ -1,0 +1,7 @@
+C:\Users\danie\Documents\C#\Proyecto def\Proyecto def\bin\Debug\Proyecto def.exe.config
+C:\Users\danie\Documents\C#\Proyecto def\Proyecto def\bin\Debug\Proyecto def.exe
+C:\Users\danie\Documents\C#\Proyecto def\Proyecto def\bin\Debug\Proyecto def.pdb
+C:\Users\danie\Documents\C#\Proyecto def\Proyecto def\obj\Debug\Proyecto def.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\C#\Proyecto def\Proyecto def\obj\Debug\Proyecto def.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\C#\Proyecto def\Proyecto def\obj\Debug\Proyecto def.exe
+C:\Users\danie\Documents\C#\Proyecto def\Proyecto def\obj\Debug\Proyecto def.pdb
