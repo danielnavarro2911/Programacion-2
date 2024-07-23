@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="menu.master.cs" Inherits="examen2_DN.vistas.menu" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../css/menucss.css" rel="stylesheet" />
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            align-items: center;
+        }
+        #main {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            height: 100%;
+            padding: 20px; /* Añadir relleno si es necesario */
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <!-- Navbar -->
+            <nav id="navbar">
+                <ul class="navbar-items flexbox-col">
+                    <li class="navbar-logo flexbox-left">
+                        <a class="navbar-item-inner flexbox">
+                            <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 1438.88 1819.54">
+                                <polygon points="925.79 318.48 830.56 0 183.51 1384.12 510.41 1178.46 925.79 318.48"/>
+                                <polygon points="1438.88 1663.28 1126.35 948.08 111.98 1586.26 0 1819.54 1020.91 1250.57 1123.78 1471.02 783.64 1663.28 1438.88 1663.28"/>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="navbar-item flexbox-left">
+                        <a class="navbar-item-inner flexbox-left" href ="inicio.aspx">
+                            <div class="navbar-item-inner-icon-wrapper flexbox">
+                                <ion-icon name="search-outline"></ion-icon>
+                            </div>
+                            <span class="link-text">Inicio</span>
+                        </a>
+                    </li>
+                    <li class="navbar-item flexbox-left">
+                        <a class="navbar-item-inner flexbox-left" href="partidos.aspx">
+                            <div class="navbar-item-inner-icon-wrapper flexbox">
+                                <ion-icon name="home-outline"></ion-icon>
+                            </div>
+                            <span class="link-text">Registrar Partido Politico</span>
+                        </a>
+                    </li>
+                    <li class="navbar-item flexbox-left">
+                        <a class="navbar-item-inner flexbox-left" href="votos.aspx">
+                            <div class="navbar-item-inner-icon-wrapper flexbox">
+                                <ion-icon name="folder-open-outline"></ion-icon>
+                            </div>
+                            <span class="link-text">Registrar Voto</span>
+                        </a>
+                    </li>
+                    <li class="navbar-item flexbox-left">
+                        <a class="navbar-item-inner flexbox-left" href="resultados.aspx">
+                            <div class="navbar-item-inner-icon-wrapper flexbox">
+                                <ion-icon name="pie-chart-outline"></ion-icon>
+                            </div>
+                            <span class="link-text">Resultados</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <!-- Main -->
+            <main id="main" class="flexbox-col">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </main>
+        </div>
+    </form>
+</body>
+</html>
